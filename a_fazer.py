@@ -1,23 +1,23 @@
-        # PRIMEIRA ETAPA DO DESAFIO AFL PARA ESTAGIÁRIO, CRIAR UM CÓDIGO ONDE SERÁ FEITO O CADASTRO DE USUÁRIOS:
-
-        #   Para cadastrar um usuário, vc precisa dos seguinte atributos:
-        #       - Nome
-        #       - Idade
-        #       - Sexo
-        #       - CPF
-
-        #   Para concluir o cadastro do usuário deves-se respeitar as seguintes regras:
-        #       - O CPF deve ser único ou seja somente um CPF por usuário
-        #       - Idade deve ser de 12 a 100 anos
-        #       - Sexo, só permitido masculino e feminino
-        #       - Nome deve ser acima de 4 letras, não é permitido numero
-        
-        #   O Terminal deverá ter a seguintes opções de ações:
-        #       1. Cadastrar um Novo usuário
-        #       2. Visualizar Usuários
-        #       3. Pesquisar Usuários
-        #       4. Atualizar Usuário
-        #       5. Deletar Usuário
+#         PRIMEIRA ETAPA DO DESAFIO AFL PARA ESTAGIÁRIO, CRIAR UM CÓDIGO ONDE SERÁ FEITO O CADASTRO DE USUÁRIOS:
+#
+#           Para cadastrar um usuário, vc precisa dos seguinte atributos:
+#               - Nome
+#               - Idade
+#               - Sexo
+#               - CPF
+#
+#           Para concluir o cadastro do usuário deves-se respeitar as seguintes regras:
+#               - O CPF deve ser único ou seja somente um CPF por usuário
+#               - Idade deve ser de 12 a 100 anos
+#               - Sexo, só permitido masculino e feminino
+#               - Nome deve ser acima de 4 letras, não é permitido numero
+#        
+#           O Terminal deverá ter a seguintes opções de ações:
+#               1. Cadastrar um Novo usuário
+#               2. Visualizar Usuários
+#               3. Pesquisar Usuários
+#               4. Atualizar Usuário
+#               5. Deletar Usuário
 
 usuarios = {}
 
